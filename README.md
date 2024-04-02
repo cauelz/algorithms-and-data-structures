@@ -15,7 +15,7 @@ The main purpose of this repository is to share fundamental Computer Science con
 ## What is Data?
 
 
-"Data is commonly understood as symbols representing abstract concepts. For example, consider the letter 'A' in English, which serves both as a symbol in the alphabet and represents a specific sound when spoken. Moreover, these symbols can undergo operations to generate more complex data. This data can then be stored and transmitted, such as to a hard drive, for later use in various operations.
+Data is commonly understood as symbols representing abstract concepts. For example, consider the letter 'A' in English, which serves both as a symbol in the alphabet and represents a specific sound when spoken. Moreover, these symbols can undergo operations to generate more complex data. This data can then be stored and transmitted, such as to a hard drive, for later use in various operations.
 
 For a more formal definition, one can refer to the definition provided by Google: 
 
